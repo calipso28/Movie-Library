@@ -1,0 +1,40 @@
+
+Erstelle eine Webseite, auf der Eine Datenvisualisierung zu sehen ist.
+Dies können Personaldaten, Buch- oder Filmsammlungen, Javascript-Befehle, 
+Personaldaten oder etwas anderes für Dich Sinnvolles sein.
+
+Die Daten sollen als Array vorliegen, die auf einer Webseite 
+als Übersicht dargestellt werden.
+Wenn eines dieser Übersichts-Elemente angeklickt wird, 
+soll eine Detailansicht angezeigt werden.
+
+Optionen:
+•	Die darzustellenden Daten können per Ajax aus einer JSON- oder XML-Datei 
+nachgeladen werden.
+•	Zu jedem Datensatz gehört auch ein Bild, das dargestellt wird.
+•	Die Detailansicht erfolgt auf einer spezifischen Webseite.
+•	Eine Eingabemöglichkeit für neue Datensätze
+•	Eine Möglichkeit, um vorhandene Datensätze zu löschen
+•	Alle Daten werden im Localstorage gespeichert
+•	Bei Start des Programmes werden die Daten aus dem Localstorage geladen.
+Falls keine vorliegen, werden die Daten aus der JSON- oder XML-Datei geladen
+
+
+==========================
+Meine Notizen
+==========================
+
+Daten:
+
+Daten -> aus JSON
+Daten: Bild, sonstige Infos
+Eingabemöglichkeit für neue Daten
+Daten löschbar
+Daten-> Localstorage speichern
+
+Darstellung
+Daten als Array zur Verfügung
+Index -> Übersicht
+
+Detailansicht als Div child, bzw als Popup/Absolut div
+Freie Lösungswahl bei allen Fragen

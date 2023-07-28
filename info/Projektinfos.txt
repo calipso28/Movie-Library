@@ -1,0 +1,28 @@
+
+Mein Projekt:
+Datenvisualisierung (z.B. mit Filmvorschlägen)
+
+
+=====================
+Next Steps:
+Localstorage überschreiben
+Filter wird bei Klick auf anderes Genre jedes mal getriggert
+
+
+
+
+
+
+
+
+=========== Sonstige Details ============
+
+Funktion: Filme anzeigen
+
+-Liste daneben, (Dropdown)
+-Neue Moviekarte über die Seite anlegbar (Array push new data)
+Bild laden 
+Eingabemaske + Überprüfung der Felder (eigene Funktion, zwei Schritte)
+Kleine Funktionen, die einen Schritt übernehmen
+
+statt document.Addeventlistener == document.querySelector("div xy").Addeventlistener

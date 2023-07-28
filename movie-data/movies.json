@@ -1,0 +1,105 @@
+    [
+    {
+      "_id": "m01",
+      "title": "Terminator Genysis",
+      "img":    "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTj1z88NO-49JRw0FqPbOgQP8nQRac-NlZj7DfxF-WB8GMwE_Lx",
+      "genre": ["Action", "Sci-Fi"],
+      "rating": 6,
+      "dailyRentalRate": 2.5,
+          "publishDate": "2018-01-03T19:04:28.809Z",
+      "liked": true,
+      "description": "Um seine Mutter Sarah vor einem durch die Zeit reisenden Terminator zu schützen, schickt John Connor seinen loyalsten Kämpfer, Kyle Reese, erneut in die Vergangenheit. Ein unvorhergesehenes Ereignis hat jedoch alles verändert und Kyle findet sich in einer alternativen Zeit wieder, in der Sarah zu einer geschickten Kriegerin ausgebildet wurde und einen Terminator T-800 an ihrer Seite hat. Plötzlich hat Kyle eine ganz neue Aufgabe: Es gilt, die Zukunft wiederherzustellen."
+    },
+    {
+      "_id": "m02",
+      "title": "Der Knastcoach",
+      "img":    "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCPEgJXdB7C7nsGtPrkW5BumwFJ9YyJnQ0pmAvnPhW1osm4y_O",
+      "genre": ["Comedy"],
+      "rating": 8,
+      "dailyRentalRate": 2.5,
+      "description": "Der Investmentbanker James King wird urplötzlich aus seinem Luxusleben gerissen, als er wegen Betruges zu zehn Jahren Haft verurteilt wird. Weil der Verurteilte bei dieser Aussicht mächtig Angst bekommt, will er seine Strafe vorbereitet antreten. Deswegen engagiert er Darnell Lewis, einen seiner Autowäscher, auf dass der ihn für das raue Knastleben abhärte. Der Haken an der Sache ist nur: Darnell ist ein vorbildlicher Bürger, der in seinem Leben noch nicht hinter Gittern war."
+    },
+    {
+      "_id": "m03",
+      "title": "Get Out",
+      "img":    "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCqweF64rsCWm9IyuDRtIueEYVX5UfFLrL_3SHKeX0X0ZXbI-o",
+      "genre": ["Thriller", "Horror" ,"Dark"],
+      "rating": 7,
+      "dailyRentalRate": 3.5,
+      "awardwinning" : true,
+      "description": "Der afroamerikanische Fotograf Chris soll bei einem Wochenendbesuch die gutbürgerlichen Eltern seiner weißen Freundin Rose kennenlernen, mit der er seit fünf Monaten zusammen ist. Seine anfänglichen Bedenken schwinden, als er auf dem Anwesen von Dean und Missy herzlich empfangen wird. Nur die schwarzen Hausangestellten scheinen sich merkwürdig zu verhalten. Im Lauf des Wochenendes macht Chris jedoch eine Reihe von beunruhigenden Entdeckungen, die den Familienbesuch zum Albtraum machen."
+    },
+    {
+      "_id": "m04",
+      "title": "Trip to Italy",
+      "img":    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5_MsM0lOOX5kUrAoMGIazi41XpO95orf-j4EuJMnepBQpI7hI",
+      "genre": ["Comedy", "Drama"],
+      "rating": 6,
+      "dailyRentalRate": 3.5,
+      "description": "Rob wurde von einer Zeitung beauftragt, einen Roadtrip durch Italien vom Piemont nach Capri zu unternehmen, teilweise auf den Spuren der großen romantischen Dichter. Steve schließt sich ihm an und während sie durch die wunderschöne italienische Landschaft reisen, denken sie über das Leben, die Liebe und ihre Karriere nach."
+    },
+    {
+      "_id": "m05",
+      "title": "Airplane",
+      "img":    "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZwtATKBGp8Lz6psFHAWwLIegETBkFUX-CKYm_wFWbFCY1UqWw",
+      "genre": ["Romance", "Comedy"],
+      "rating": 5,
+      "dailyRentalRate": 3.5,
+      "description": "Als auf einem Trans-Amerika-Flug eine Fischvergiftung Crew und Passagiere lahm legt, übernimmt Stewardess Elaine das Kommando. Sie kann zwar den Ex-Kampfpiloten Ted Striker dazu bringen, das Steuer des Flugzeuges zu übernehmen, doch Striker ist seit seinem Kampfeinsatz im Krieg ein psychisches Wrack und leidet unter höllischer Flugangst. Ein alter Kriegskamerad soll Ted jetzt vom Tower aus zu einer erfolgreichen Landung führen, doch die beiden sind sich verfeindet."
+    },
+    {
+      "_id": "m06",
+      "title": "Die Hochzeits-Crasher",
+      "img" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_PE0gjJt9vCJ3LLjpYD81aKa3eBidToz3FGOfIA5Tna7iNGuC",
+      "genre": ["Comedy"],
+      "rating": 7,
+      "dailyRentalRate": 3.5,
+      "description": "John und Jeremy arbeiten nicht nur beide als Scheidungsanwälte, sondern teilen auch ein seltsames Hobby: Regelmäßig mischen sie sich auf Hochzeitsfeiern fremder Leute unter die Gäste, um Brautjungfern abzuschleppen. Auf der Feier des US-Finanzministers William Cleary verliebt sich John jedoch in dessen Tochter Claire, die allerdings verlobt ist, und auch Jeremy wird seine Eroberung nicht so schnell vergessen."
+    },
+    {
+      "_id": "m07",
+      "title": "Gone Girl",
+      "img" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBX9gL8PmEpdh2kSL61L5xqi1G6_vrOjK5DCQUXrGJ_aZ8hKts",
+      "genre": ["Thriller", "Mystery"],
+      "rating": 5,
+      "dailyRentalRate": 4.5,
+      "description": "Amy Dunne verschwindet an ihrem fünften Hochzeitstag spurlos. Alle Indizien rücken den Ehemann Nick Dunne in das Zentrum der mutmaßlichen Straftat, sein eigenartiges Verhalten trägt zum Verdacht seiner Umgebung nicht unwesentlich bei. Eigentlich galt er in ihrer Heimatstadt als perfekter Ehemann, doch mit dem Fortgang der Ermittlungen wird klar, dass dieses Bild zwar trügt, doch auch Amy nicht die sanfte Person war, die ihre Umgebung kannte."
+    },
+    {
+      "_id": "m08",
+      "title": "The Sixth Sense",
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyD6klO2WW285UBGKLcmOm7C3R1j3xjVILMdKRuMriKSxEGpqM",
+      "genre": ["Thriller"],
+      "rating": 8,
+      "dailyRentalRate": 3.5,
+      "awardwinning" : true,
+      "description": "Nach einem Attentat, das ein ehemaliger Patient auf ihn verübt, kriselt es in der Ehe des erfolgreichen Psychiaters Dr. Malcolm Crowe. Seine Frau spricht nicht mehr mit ihm. Nun soll Crowe auch noch den neunjährigen Cole behandeln, der von Angstattacken geplagt wird. Der Junge behauptet, Verstorbene sehen und mit ihnen sprechen zu können. Nach und nach gewinnt Crowe das Vertrauen des verstörten Jungen - und deckt ein erschreckendes Geheimnis auf."
+    },
+    {
+      "_id": "m09",
+      "title": "The Avengers", 
+      "img" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT72kwEeYw7wl-NzgsVJYGAH9HCW19nOgZ0q0S5uuZrLKQZdsr1",
+      "genre": ["Action", "Abenteuer"],
+      "rating": 9,
+      "dailyRentalRate": 3.5,
+      "description": "Loki, der Halbbruder des Donnergottes Thor, will die Erde unterjochen. Um der Menschheit diese Zukunft zu ersparen, ruft Nick Fury, Chef der geheimen Regierungsbehörde und Friedensorganisation S.H.I.E.L.D., die größten Helden der Welt zusammen. Captain America wird aus seinem jahrzehntelangen Schlaf geweckt und schließlich greift Fury zudem auf die Dienste des egozentrischen Tony Stark, aka Iron Man, zurück. Auch der Wissenschaftler Dr. Bruce Banner wird ins Team gelockt."
+    },
+    {
+      "_id": "m10",
+      "title": "The Italian Job", 
+      "img" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqmE99YBsItv8Mq_1OkjN6CvhsIQNjEhhY1aQ057ytaOeMRz86",
+      "genre": ["Action", "Thriller"],
+      "rating": 8,
+      "dailyRentalRate": 3.5,
+      "description": "Charlie Croker, Rob und John erbeuten Goldbarren im Wert von 35 Millionen Dollar. Dummerweise werden sie von ihrem Komplizen Steve hintergangen, der John erschießt und dann mit der Beute in die USA verschwindet. Ein Jahr später macht Charlie Steve in Los Angeles ausfindig. Die alte Gruppe schließt sich erneut zusammen und plant, sich mit der Hilfe von Johns Tochter Stella ihre Beute zurückzuholen."
+    },
+    {
+      "_id": "m11",
+      "title": "Hacker", 
+      "img" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-SL-HJAkG-10kVFYDLZiuT6ecByTkYd9uV2dlZAoim_tth0gz",
+      "genre": ["Thriller", "Krimi "],
+      "rating": 8.5,
+      "dailyRentalRate": 3.5,
+      "description": "Mithilfe seiner neuen Freunde beginnt Alex Danyliuk ein neues Leben, das geprägt ist von Verbrechen und Identitätsdiebstahl."
+    }
+    ]
